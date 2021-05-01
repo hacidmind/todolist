@@ -1,0 +1,30 @@
+
+.list{
+    color:white;
+    width:300px;
+    background-color: green;
+    height: 58px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.list p{
+    padding: 10px;
+    position: relative;
+}
+.list p button{
+    position: absolute;
+    right: 10px;
+    cursor:pointer
+}
+.deleteBtn{
+    margin: 0.5px;
+    font-size: 15px;
+}
+
+footer{
+    color: white;
+}
+
+h1{
+    color: crimson;
+}
